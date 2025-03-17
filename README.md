@@ -4,7 +4,7 @@ Este dashboard foi construido com a finalidade de analisar o fluxo do caixa de u
 
 
 ## 🔗 Acesse o Dashboard  
-📊 [Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTgyYmE5N2ItNTE4ZC00ZTFkLThkMjEtMzhhYTczMjU2MzYyIiwidCI6IjZjMWY1ZmFhLTYxZjItNGZiOC04MDUwLTBkZjliNDashboard_Vendas/README.mdTRjOWRhNiJ9)  
+📊 [Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDVhMjRlMzktMGEyMS00ZmQ2LWFhYTUtNGJiNmIyMzBkZGRhIiwidCI6IjZjMWY1ZmFhLTYxZjItNGZiOC04MDUwLTBkZjliNTRjOWRhNiJ9)  
 
 
 ## 🚀 Principais KPIs Analisados  
